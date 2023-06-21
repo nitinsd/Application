@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        maven {
+            url = uri('/Users/nitin.deshpande/IdeaProjects/gradle-plugins')
+        }
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Application"
